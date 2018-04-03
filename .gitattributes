@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git rm -r --cached admincp
+git commit -m "Removed folder from repository"
+git push origin master
